@@ -61,7 +61,7 @@ if ( !in_array( 'woocommerce/woocommerce.php', apply_filters( 'active_plugins', 
                            'id'       => 'wctr_global',
                            'type'     => 'text',
                            'css'      => 'min-width:300px;',
-                           'desc'     => __( 'Put the categories to which to be excluded', 'wchcosp' ),
+                           'desc'     => __( 'Put the categories  which to be excluded  eg : abc,xyz', 'wchcosp' ),
                    );
 				   return $settings_url;
    }
