@@ -1,19 +1,19 @@
 === WC Hide Categories On Shop Page ===
-Contributors: quazijamal123
+Contributors: wordpluginpress
 Donate link: http://www.wordpluginpress.com/
 Tags: Wordpress, WooCommerce, e-Commerce
 Requires at least: 3.0.1
 Tested up to: 3.4
-Stable tag: 4.3
+Stable tag: 4.7.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-WC Hide Categories On Shop Page allows to Remove Specific categories products From Shop Page.
+WC Hide Categories On Shop Page allows removing specific categories products from WooCommerce Shop Page.
 
 == Description ==
 
 This free WooCommerce extension permits you to hide the products on shop page  of specific categories.
- For this you have to save the categories with ',' seperated in woocommerce setting in product section.
+For this you have to save the categories with ',' seperated in woocommerce setting in product section.
 
 == Installation ==
 
